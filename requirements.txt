@@ -1,10 +1,9 @@
-tensorflow==2.15.0 '''this project using this version, if want latest one remove the version 
-this is a opensource library for building and deploying ML models'''
-
+tensorflow==2.15.0 #this project using this version, if want latest one remove the version, this is a opensource library for building and deploying ML models.
 pandas #for data manipulation and analysis
 numpy #Numerical python, foundational library for scientific computing by handing dimensional arrays, matrics...
 scikit-learn #uses feature engineering and data transformation libraries
 tensorboard #toolkit, used in ML for understanding, debug and optimize models
 matplotlib #creating static, animated and interactive visualizations
 streamlit #to build and share interactive web applications for data science and ML
+
 
